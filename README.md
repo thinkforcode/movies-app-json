@@ -1,2 +1,7 @@
 "# movies-app-json"  "# movies-app-json" 
 "# movies-app-json" 
+"just type npm install to add all the dependencies to package.json file"
+"and after that go to your project directories where you have all the project file"
+"and just type node and your file name or just type nodemon"
+"if you havent download nodemon globally"
+"just type npm i nodemon -g"
