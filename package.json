@@ -1,0 +1,24 @@
+{
+  "name": "bollywood-movies-app",
+  "version": "1.0.0",
+  "description": "this is the bollywood movies app using nodejs and ejs template engine..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "exressjs",
+    "ejs",
+    "and",
+    "son",
+    "on."
+  ],
+  "author": "Manmohan Kumar Gupta.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
